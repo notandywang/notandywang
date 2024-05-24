@@ -4,17 +4,25 @@
 </em></p>
 
 
-<!--
-**notandywang/notandywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Get to know me (kinda):
 
-Here are some ideas to get you started:
+```python
+class About:
+    def get_workspace(self):
+        return {
+            "workplace": {
+                "company": "Swisscom",
+                "position": "EmbeddedEngineer"
+            }
+        }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def knowledge(self):
+        return [
+            "Python",
+            "C++",
+            "Kubernetes",
+            "Docker",
+            "Linux",
+        ]
+
+```
