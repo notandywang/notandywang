@@ -11,8 +11,8 @@ class About:
     def get_workspace(self):
         return {
             "workplace": {
-                "company": "Swisscom",
-                "position": "EmbeddedEngineer"
+                "company": "Unnamed company",
+                "position": "CEO and Janitor"
             }
         }
 
