@@ -27,8 +27,8 @@ class About:
     
     def hobbies(self):
         return [
-            "Creating cheat trainers for shooter games (controversial)",
-            "Volleyball (at least once a week)",
+            "Creating cheat trainers for shooter games",
+            "Volleyball",
             "Tinkering (fancy word for modding my switch)",
             "web3 (trading memecoins and being exit liquidity)"
         ]
